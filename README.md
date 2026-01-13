@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-### I code everyday, and I push what I code here!
+### I used to code everyday, and I push what I code here!
